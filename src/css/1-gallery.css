@@ -32,3 +32,8 @@ ul li {
 .gallery-image:hover {
   transform: scale(1.044);
 }
+
+.goback-link {
+  color: #000000;
+  text-decoration: none;
+}
